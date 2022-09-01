@@ -1,0 +1,23 @@
+commit e9a76911840efc4cb5bf3b995c49cde23efb484d
+Author: Edison Ferney Garcia Serna <egarcia76@summa-sci.com>
+Date:   Thu Sep 1 14:09:34 2022 -0500
+
+    modificamos los estilos css
+
+commit 4fa3abc83f6cce2a30dd20d29f62dd8e83e49dd3
+Author: Edison Ferney Garcia Serna <egarcia76@summa-sci.com>
+Date:   Thu Sep 1 14:06:29 2022 -0500
+
+    modificamos pecio de computadores
+
+commit 7bb2c72ee08b0e45b6bbd5229c8ebf6d5913befb
+Author: Edison Ferney Garcia Serna <egarcia76@summa-sci.com>
+Date:   Thu Sep 1 14:03:58 2022 -0500
+
+    modificamos pecio de impresora
+
+commit 22570d6c04eaae82718cdfb530dc6d590bedf808
+Author: Edison Ferney Garcia Serna <egarcia76@summa-sci.com>
+Date:   Thu Sep 1 13:58:44 2022 -0500
+
+    los cambios se realizan desde aquí
